@@ -1,0 +1,69 @@
+/* Обычный */
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Inter"),
+    url("../fonts/Inter/static/Inter-Regular.woff2") format("woff2"),
+    url("../fonts/Inter/static/Inter-Regular.woff") format("woff"),
+    url("../fonts/Inter/static/Inter-Regular.ttf") format("ttf");
+}
+/* Жирный */
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: bold;
+  src: local("Inter"),
+    url("../fonts/Inter/static/Inter-Bold.woff2") format("woff2"),
+    url("../fonts/Inter/static/Inter-Bold.woff") format("woff"),
+    url("../fonts/Inter/static/Inter-Bold.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 900;
+  src: local("Inter"),
+    url("../fonts/Inter/static/Inter-ExtraBold.woff2") format("woff2"),
+    url("../fonts/Inter/static/Inter-ExtraBold.woff") format("woff"),
+    url("../fonts/Inter/static/Inter-ExtraBold.ttf") format("ttf");
+}
+
+/* SemiBold */
+@font-face {
+  font-family: "Inter SemiBold";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Inter SemiBold"),
+    url("../fonts/Inter/static/Inter-SemiBold.woff2") format("woff2"),
+    url("../fonts/Inter/static/Inter-SemiBold.woff") format("woff"),
+    url("../fonts/Inter/static/Inter-SemiBold.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Roboto"),
+    url("../fonts/Roboto/Roboto-Regular.woff2") format("woff2"),
+    url("../fonts/Roboto/Roboto-Regular.woff") format("woff"),
+    url("../fonts/Roboto/Roboto-Regular.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Calibri";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Calibri"),
+    url("../fonts/calibri-font-family/calibri-regular.woff2 woff2")
+      format("woff2"),
+    url("../fonts/calibri-font-family/calibri-regular.woff") format("woff"),
+    url("../fonts/calibri-font-family/calibri-regular.ttf") format("ttf");
+}
+
+/* Жирный */
+@font-face {
+  font-family: "Calibri";
+  font-style: normal;
+  font-weight: bold;
+  src: local("Calibri"),
+    url("../fonts/calibri-font-family/calibri-bold.woff2") format("woff2"),
+    url("../fonts/calibri-font-family/calibri-bold.ttf") format("ttf");
+}
