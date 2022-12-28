@@ -36,3 +36,10 @@ if (getWindowWidth() <= 1153) {
       });
 }
 
+// let date = new Date( 2022, 11, 28);
+
+// const calendoNumber = document.getElementById("calendo__number");
+// const calendoText = document.getElementById("calendo__text");
+// calendoNumber.innerText = 'date';
+// console.log(calendoNumber);
+// console.log(calendoText);
