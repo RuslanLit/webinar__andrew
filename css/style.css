@@ -432,6 +432,7 @@ form input::placeholder {
 .screen-7__inner,
 .teacher__inner {
   padding-top: calc(25px + (90 - 25) * ((100vw - 320px) / (1170 - 320)));
+  padding-bottom: calc(25px + (90 - 25) * ((100vw - 320px) / (1170 - 320)));
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -448,6 +449,7 @@ form input::placeholder {
   background-position: 0 0;
 }
 .teacher__inner {
+  padding-bottom: 0;
   flex-direction: row;
   align-items: flex-start;
   flex-wrap: wrap;
