@@ -46,7 +46,7 @@ ul {
   background-position: center;
 }
 .screen-1__inner {
-max-height: 100vh;
+min-height: 100vh;
   padding-top: calc(10px + (62 - 10) * ((100vw - 320px) / (1170 - 320)));
   padding-bottom: calc(20px + (83 - 20) * ((100vw - 320px) / (1170 - 320)));
   position: relative;
